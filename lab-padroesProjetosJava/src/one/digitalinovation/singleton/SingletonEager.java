@@ -14,9 +14,5 @@ public class SingletonEager {
 
 	public static SingletonEager getInstancia() {
 				return instancia;
-	}
-
-	
-	
-	
+	}	
 }
